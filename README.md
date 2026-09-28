@@ -33,7 +33,6 @@ If the IDN Gacha icon was added to the iPad home screen before v1.2.0, delete it
 - Open https://idngacha.com in Safari on the iPad → Share → Add to Home Screen. Opening that icon shows the page full screen as an app (no address bar).
 - Guided Access: Settings → Accessibility → Guided Access → on, set a passcode. Open the IDN Gacha app, triple-click the top button (the Home button on older iPads) → Start. Triple-click + passcode to exit.
 - Settings → Display & Brightness → Auto-Lock → Never. Volume up, silent mode off.
-- The hostess taps "Tap to open" for each visitor and "Open another pack" for the next one.
 
 ## Staff test
 
