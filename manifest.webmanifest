@@ -1,7 +1,7 @@
 {
-  "name": "IDN Gacha",
+  "name": "IDNPLAY Gacha",
   "short_name": "IDN Gacha",
-  "description": "IDNPLAY Collectibles Mystery Pack reveal",
+  "description": "IDNPLAY Gacha: Follow, Open & Win",
   "start_url": "/",
   "scope": "/",
   "display": "standalone",
