@@ -613,9 +613,9 @@ canvas { position: absolute; inset: 0; width: 100%; height: 100%; pointer-events
 
   // ---------- chances ----------
   // Every pack is its own fresh draw. Nothing is counted or stored.
-  // Out of 10,000: Advance 66.25%, Elite 18.75%, Legendary 10% (1 in 10), Ultimate 5% (1 in 20).
+  // Out of 10,000: Advance 65%, Elite 25% (1 in 4), Legendary 7.5% (3 in 40), Ultimate 2.5% (1 in 40).
   const POOL = 10000;
-  const CHANCES = [['advance', 6625], ['elite', 1875], ['legendary', 1000], ['ultimate', 500]];
+  const CHANCES = [['advance', 6500], ['elite', 2500], ['legendary', 750], ['ultimate', 250]];
   function randInt(max) {
     const buf = new Uint32Array(1);
     const limit = Math.floor(0x100000000 / max) * max; // drop the top few values so every number is exactly equal

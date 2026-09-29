@@ -14,7 +14,7 @@ The live site refreshes in about a minute.
 
 ## Chance rates
 
-Chances per pack: Advance 66.25%, Elite 18.75%, Legendary 10% (1 in 10), Ultimate 5% (1 in 20). Every pack is a fresh draw; nothing is counted or stored. Set inside index.html (search for CHANCES).
+Chances per pack: Advance 65%, Elite 25% (1 in 4), Legendary 7.5% (3 in 40), Ultimate 2.5% (1 in 40). Every pack is a fresh draw; nothing is counted or stored. Set inside index.html (search for CHANCES).
 
 ## Two QR codes
 
